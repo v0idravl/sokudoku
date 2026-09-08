@@ -1,0 +1,215 @@
+==============================================================================
+
+
+                     FIFTEEN SECONDS, OR A WHOLE BOOK
+
+           What the research says about RSVP speed reading,
+         and how to use it when ordinary pages refuse to be read
+
+
+==============================================================================
+
+
+1.  THE PROBLEM THIS ESSAY IS ABOUT
+------------------------------------------------------------------------------
+
+There is a particular kind of reader this essay is for: someone who can
+read anything for fifteen seconds and almost nothing for fifteen minutes.
+A page opens, the eyes land on it, and within moments the mind has gone
+elsewhere. What remains possible is skimming -- a fast, shallow pass that
+takes in the shape of the information but not the argument, the plot, or
+the voice of the thing.
+
+The standard advice assumes the problem is effort. Read more slowly.
+Concentrate harder. But the problem is not effort. A static page places
+the entire burden of pacing on the reader: you must move your eyes, hold
+your place, and keep returning to the text, over and over, for hours. If
+pacing is the faculty that fails you, the page itself is the obstacle.
+
+Rapid serial visual presentation -- RSVP -- attacks the page directly.
+Instead of your eyes moving across the text, the text moves: one word,
+or a few words, flashed at a single fixed point on the screen, at a
+steady rate, for as long as the book requires. This essay reviews what
+the research actually says about that idea, and then sets out how to
+use it honestly and well.
+
+
+2.  THE THEORY BEHIND THE FLASHING WORDS
+------------------------------------------------------------------------------
+
+Ordinary reading is not a smooth glide across the line. The eyes move in
+quick jumps called saccades, rest in brief fixations, and now and then
+jump backward to re-read -- regressions. The pitch behind RSVP, made
+famous by apps like Spritz and Spreeder, is that all of this movement is
+overhead. Remove the eye movement, the argument goes, and the mind is
+free to absorb words at 500, 800, even 1,000 words per minute.
+
+Most implementations add one more idea: the "optimal recognition point",
+a letter about a third of the way into each word, highlighted in colour,
+where the eye is said to naturally aim. Anchor the eye there and each
+word is recognized a little faster.
+
+The subjective experience is genuinely impressive. Try it and the words
+really do register, one after another, at speeds that feel impossible on
+paper. The question the research asks is narrower and crueler: does
+comprehension survive the speed?
+
+
+3.  WHAT THE EVIDENCE ACTUALLY SAYS
+------------------------------------------------------------------------------
+
+The honest verdict: as a speed-reading technology, RSVP fails its
+central claim. The key findings, from sixty years of research:
+
+Going backward is not wasted time. Regressions -- the eye's small jumps
+back to earlier words -- make up 10 to 15 percent of all eye movements
+in reading, and they are how readers resolve ambiguity and stitch
+meaning together. RSVP makes regressions impossible: once a word has
+flashed past, it is gone. Schotter, Tran and Rayner (2014) demonstrated
+the cost directly by masking each word after the reader's eyes passed
+it, simulating RSVP inside normal reading. Comprehension dropped
+significantly.
+
+Speed has a hard ceiling. Studies of RSVP from the 1970s onward found
+that comprehension holds up at moderate rates but falls steeply beyond
+roughly 400 to 500 words per minute, especially for anything longer than
+a single sentence. Working memory simply cannot integrate a chapter's
+worth of ideas delivered at 1,000 words per minute with no way to look
+back. The comprehensive review by Rayner, Schotter, Masson, Potter and
+Treiman (2016) concludes that the promise of faster reading without
+compromised understanding "is not supported by the research."
+
+Pauses matter. Masson (1983) showed that RSVP comprehension improves
+when a brief pause is inserted at each sentence boundary -- the brain
+uses the beat to catch up and consolidate. Readers do the same thing
+naturally at the ends of sentences. A well-built RSVP tool should
+breathe; a badly built one suffocates.
+
+Direct tests of the apps are unflattering. Benedetto and colleagues
+(2015) tested Spritz itself against conventional reading and found no
+comprehension advantage, with signs of a cost. Acklin and Papesh (2017)
+reached the same conclusion in a paper whose title says it plainly:
+modern speed-reading apps do not foster reading comprehension.
+
+So the marketing claim -- read twice as fast, understand just as much --
+is dead. There is a real trade-off between speed and comprehension, and
+no app has beaten it.
+
+
+4.  THE REFRAME: ATTENTION, NOT SPEED
+------------------------------------------------------------------------------
+
+And yet. Notice what question the research was answering: can RSVP beat
+normal reading for normal readers? That is not everyone's situation. For
+some of us, the alternative to RSVP is not serene, careful, linear
+reading. The alternative is not finishing the book at all.
+
+Against that benchmark the calculus changes completely:
+
+RSVP paces you from outside. The text keeps moving whether you are
+ready or not, and that external metronome is precisely what a wandering
+attention needs. There is no line to lose, no paragraph to re-enter, no
+page for the eyes to slide across while the mind is elsewhere. Early
+work with ADHD readers is suggestive here -- one small study reported a
+comprehension gain of about 13 percent for young adults with ADHD using
+RSVP -- though a single small study is a hint, not a verdict.
+
+Reading done beats reading idealized. If flashing words at 300 to 400
+words per minute is the difference between finishing a book you love and
+abandoning it on page twelve, then the method with the "inferior"
+comprehension scores is, for you, the superior method. Comprehension
+losses at moderate speeds with straightforward narrative prose are
+modest; comprehension of a book never read is zero.
+
+The medium fits the material. RSVP suits linear prose -- novels,
+narrative non-fiction, essays like this one. It is the wrong tool for
+dense study texts, mathematics, reference works, or anything whose
+layout carries meaning.
+
+
+5.  PRACTICAL SUGGESTIONS
+------------------------------------------------------------------------------
+
+If you want to make RSVP your way into whole books, the research and
+plain experience suggest the following:
+
+Stay moderate: 250 to 450 words per minute. That is the range where
+comprehension holds. Pushing past 500 feels heroic and retains like
+skimming -- which is what it has become. Speed is not the point of this
+method; continuity is.
+
+Flash two to four words, not one. Multi-word chunks preserve phrase
+structure, giving your brain the syntactic context that one-word-at-a-
+time strips away, and they naturally slow the rate at which individual
+words arrive. Single-word mode is there for dense passages that deserve
+a slower, more deliberate feed.
+
+Insist on sentence pauses. The stream should hesitate slightly at the
+end of every sentence and a little longer at each paragraph. This is one
+of the few interventions with direct experimental support.
+
+Keep regression one keypress away. RSVP's known weakness is the
+impossibility of looking back, so a good tool must let you jump back a
+sentence instantly -- and should rewind you to the start of the current
+sentence whenever you resume from a pause. Re-entry mid-thought is where
+the thread is lost.
+
+Start each session paused. See the first chunk, breathe, then start the
+stream. Beginning at full speed is how you lose the first page.
+
+Test yourself honestly. After each chapter, close your eyes and say what
+happened. If you cannot, slow down. The speedometer lies; the summary
+does not.
+
+Keep the alternatives in the toolkit. Text-to-speech with word
+highlighting solves the same attention problem while preserving natural
+prosody and pacing, and it has a stronger evidence base for
+comprehension. Audiobooks need no defence at all. Use whichever medium
+gets you to the last page; mix them freely.
+
+
+6.  A CLOSING WORD
+------------------------------------------------------------------------------
+
+The question was never really "can flashing words beat a book?" It was
+"fifteen seconds, or a whole book?" RSVP's gift is not speed -- it is
+that the text keeps moving so that you do not have to make yourself
+move. The page stops waiting for you to fail at pacing, and starts
+carrying you instead.
+
+Read the books you really, really want to read. By whatever means
+actually works.
+
+
+------------------------------------------------------------------------------
+
+REFERENCES
+
+Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., &
+    Treiman, R. (2016). So much to read, so little time: How do we
+    read, and can speed reading help? Psychological Science in the
+    Public Interest, 17(1), 4-34.
+
+Schotter, E. R., Tran, R., & Rayner, K. (2014). Don't believe what you
+    read (only once): Comprehension is supported by regressions during
+    reading. Psychological Science, 25(6), 1218-1226.
+
+Masson, M. E. J. (1983). Conceptual processing of text during skimming
+    and rapid sequential reading. Memory & Cognition, 11(3), 262-274.
+
+Benedetto, S., Carbone, A., Pedrotti, M., Le Fevre, K., Bey, L. A. Y.,
+    & Baccino, T. (2015). Rapid serial visual presentation in reading:
+    The case of Spritz. Computers in Human Behavior, 45, 352-358.
+
+Acklin, D. S., & Papesh, M. H. (2017). Modern speed-reading apps do
+    not foster reading comprehension. American Journal of Psychology,
+    130(2), 183-199.
+
+Potter, M. C., Kroll, J. F., & Harris, C. (1980). Comprehension and
+    memory in rapid sequential reading. In R. Nickerson (Ed.),
+    Attention and Performance VIII. Erlbaum.
+
+Juola, J. F., Ward, N. J., & McNamara, T. (1982). Visual search and
+    reading of rapid serial presentations of letter strings, words,
+    and text. Journal of Experimental Psychology: General, 111(2),
+    208-227.
